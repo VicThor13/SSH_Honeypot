@@ -13,7 +13,7 @@ A lightweight, secure SSH Honeypot written in Python using `paramiko`. This tool
 ## Proof of Concept / Screenshot
 
 <!-- 📸 INSERT YOUR SCREENSHOT HERE -->
-![Discord Alert Proof](URL_TO_YOUR_SCREENSHOT_HERE.png)
+<img width="1913" height="938" alt="image" src="https://github.com/user-attachments/assets/ac3af02e-efbb-4d85-851f-ba3e79e11903" />
 *(Screenshot of the Discord Webhook alert showing the captured IP, Username, and Password)*
 
 ## Prerequisites
